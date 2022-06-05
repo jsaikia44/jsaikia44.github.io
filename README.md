@@ -1,5 +1,5 @@
 # My Personal Website    
-hosted in github. Contains 4 pages.
+## Hosted in github. Contains 4 pages.                    
 home
 projects (under construction)
 resume
