@@ -1,4 +1,4 @@
-# My Personal Website    
+# My Personal Website (My first Website using HTML CSS)  
 ## Hosted in github. Contains 4 pages.                    
 Home, Projects (under construction), Resume and About
 ## Here is the Homepage
